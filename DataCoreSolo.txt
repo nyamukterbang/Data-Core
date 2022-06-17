@@ -1,0 +1,88 @@
+Closure Split 1:8 (7°31'21"S 110°44'45"E) 
+Ada 3kabel 24c Adss
+1. Kabel 24c Adss (Arah Waduk Cengklik)
+2. Kabel 24c Adss (Arah Gagak Sipat)
+3. Kabel 24c Adss (Arah AU)
+Kabel Arah AU BB Spliter 1:8 T3 C1
+Spliter 1:8
+Spliter C1 → T4 C1 Arah AU (ODP 156)
+Spliter C2 →
+Spliter C3 →
+Spliter C4 →
+Spliter C5 →
+Spliter C6 →
+Spliter C7 → T4C2 → T4C2(BRI) → T1C4 (Closure ODP 26) → T1C1 (closure luwes) → ODP 175
+Spliter C8 → T4C3 → T4C3(BRI) → T1C5 (Closure ODP 26) → T2C5 (Closure Luwes) → T1C1 Closure 7°32'51"S 110°44'27"E → ODP 178
+
+Closure Split 1:8 (7°31'21"S 110°44'45"E)
+Ada 3kabel Adss
+1. Kabel 24c Adss (Arah POP)
+2. Kabel 24c Adss (Arah Tugu Boto)
+3. Kabel ke ODP
+4. Kabel ke utara
+Kabel Arah Timur BB Spliter 1:8
+Spliter 1:8
+Spliter C1 → 
+Spliter C2 →
+Spliter C3 →
+Spliter C4 →
+Spliter C5 →
+Spliter C6 → T1 C1 (ODP 170) 
+Spliter C7 → T4 C5 → T4 C5(Closure ODP 81) → T1 C1(ODP 88) 
+Spliter C8 → T2 C1 → T1 C2(Closure ODP 81) → ODP 168
+
+Closure Depan Gudang Baru 
+Kabel 24C Arah Tugu Boto
+POP → T1 C3 → T4 C4 → T4 C6(lurus sampai closure TBoto) → T1 C2 → closure split 1:8 
+
+Closure (7°31'55"S 110°47'24"E) 
+Kabel arah barat T1 C1 → ODP 113
+Split 1:8
+Spliter C1 → 
+Spliter C2 →
+Spliter C3 →
+Spliter C4 → T1 C3 → T4 C3(TBoto) → T1 C1(sampai ODP 167) 
+Spliter C5 →
+Spliter C6 → 
+Spliter C7 →
+Spliter C8 → 
+
+Closure baru (7°31'57"S 110°45'52"E) 
+Kabel dari POP 
+T4 C(all) → T4(all) (closure per3an kabel arah SMK Penerbangan) 
+
+Closure Bolon 2 (7°31'55"S 110°43'52"E) 
+Spliter ⅛ 
+
+Dari pop bolon
+Closure odp 121
+Kabel dari pop T4C4 → T3C6(sampai closure BRI) → kabel 24 arah waduk T3C1 → T3C1 closure flyover → split 1:8 closure 7°31'11"S 110°43'48
+
+Closure 7°31'11"S 110°43'48
+Spliter 1:8
+Spliter C1 → T3C3 → T1C1 (Closure flyover) → ODP 173
+Spliter C2 → T3C4 → T1C2 (Closure Flyover) → ODP 174
+Spliter C3 → T3C5 → closure pertigaan (salah sambung T3C6 → T4C6 sampai BRI) 
+Spliter C4 →
+Spliter C5 →
+Spliter C6 → 
+Spliter C7 →
+Spliter C8 → 
+
+Closure ODP 26
+Kabel dari BRI T4T4C2,3,4 → Kabel 24 luwes T1C4,5,6
+
+Closure 7°31'14"S 110°46'05"E
+Splitter 1:8 → Kabel 24 arah patung naga T3C5 → T3C5 (closure naga) → kabel 24 arah waduk T3C5 → T1C2 (closure 7°31'25"S 110°45'47"E) → T1C2 (Closure Masjid) → T1C1 ODP 179
+
+Closure 7°33'26"S 110°46'10"E UMS
+Spliter 1:8 
+Spliter C1 → T1C1 ODP 05
+Spliter C2 → T1C1 ODP 93
+Spliter C3 → T1C2 ODP 90
+Spliter C4 → T1C1 ODP 176
+Spliter C5 → T1C2 ODP 177
+Spliter C6 → 
+Spliter C7 →
+Spliter C8 → 
+
