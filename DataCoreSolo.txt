@@ -63,8 +63,8 @@ Spliter 1:8
 Spliter C1 → T3C3 → T1C1 (Closure flyover) → ODP 173
 Spliter C2 → T3C4 → T1C2 (Closure Flyover) → ODP 174
 Spliter C3 → T3C5 → closure pertigaan (salah sambung T3C6 → T4C6 sampai BRI) 
-Spliter C4 →
-Spliter C5 →
+Spliter C4 → T4C1 → T1C4 (Closure Flyover) → T1C1 ODP Sawah
+Spliter C5 → T3C5 → T1C3 (Closure Flyover) → T1C1 (Closure Sawah) → ODP Ujung
 Spliter C6 → 
 Spliter C7 →
 Spliter C8 → 
