@@ -14,7 +14,7 @@ Spliter C6 →
 Spliter C7 → T4C2 → T4C2(BRI) → T1C4 (Closure ODP 26) → T1C1 (closure luwes) → ODP 175
 Spliter C8 → T4C3 → T4C3(BRI) → T1C5 (Closure ODP 26) → T2C5 (Closure Luwes) → T1C1 Closure 7°32'51"S 110°44'27"E → ODP 178
 
-Closure Split 1:8 (7°31'21"S 110°44'45"E)
+Closure Split 1:8 (7°31'42"S 110°46'53"E)
 Ada 3kabel Adss
 1. Kabel 24c Adss (Arah POP)
 2. Kabel 24c Adss (Arah Tugu Boto)
@@ -51,14 +51,22 @@ Closure baru (7°31'57"S 110°45'52"E)
 Kabel dari POP 
 T4 C(all) → T4(all) (closure per3an kabel arah SMK Penerbangan) 
 
-Closure Bolon 2 (7°31'55"S 110°43'52"E) 
-Spliter ⅛ 
+Closure Bolon 2 (7°31'55"S 110°43'52"E) (pertigaan) 
+Spliter 1:8
+Spliter C1 → T1C1 (kabel 12C arah barat) → ODP persimpangan
+Spliter C2 → 
+Spliter C3 → 
+Spliter C4 → 
+Spliter C5 →
+Spliter C6 → 
+Spliter C7 →
+Spliter C8 → 
 
 Dari pop bolon
 Closure odp 121
 Kabel dari pop T4C4 → T3C6(sampai closure BRI) → kabel 24 arah waduk T3C1 → T3C1 closure flyover → split 1:8 closure 7°31'11"S 110°43'48
 
-Closure 7°31'11"S 110°43'48
+Closure 7°31'11"S 110°43'48 (Bawah Flyover) 
 Spliter 1:8
 Spliter C1 → T3C3 → T1C1 (Closure flyover) → ODP 173
 Spliter C2 → T3C4 → T1C2 (Closure Flyover) → ODP 174
@@ -82,7 +90,6 @@ Spliter C2 → T1C1 ODP 93
 Spliter C3 → T1C2 ODP 90
 Spliter C4 → T1C1 ODP 176
 Spliter C5 → T1C2 ODP 177
-Spliter C6 → 
+Spliter C6 → T1C3 ODP Setelah 177
 Spliter C7 →
-Spliter C8 → 
-
+Spliter C8 →
