@@ -1,4 +1,4 @@
-Closure Split 1:8 (7°31'21"S 110°44'45"E) 
+﻿Closure Split 1:8 (7°31'21"S 110°44'45"E) 
 Ada 3kabel 24c Adss
 1. Kabel 24c Adss (Arah Waduk Cengklik)
 2. Kabel 24c Adss (Arah Gagak Sipat)
@@ -53,7 +53,7 @@ T4 C(all) → T4(all) (closure per3an kabel arah SMK Penerbangan)
 
 Closure Bolon 2 (7°31'55"S 110°43'52"E) (pertigaan) 
 Spliter 1:8
-Spliter C1 → T1C1 (kabel 12C arah barat) → ODP persimpangan
+Spliter C1 → T1C1 (kabel 12C arah barat) → ODP 182
 Spliter C2 → 
 Spliter C3 → 
 Spliter C4 → 
@@ -71,8 +71,8 @@ Spliter 1:8
 Spliter C1 → T3C3 → T1C1 (Closure flyover) → ODP 173
 Spliter C2 → T3C4 → T1C2 (Closure Flyover) → ODP 174
 Spliter C3 → T3C5 → closure pertigaan (salah sambung T3C6 → T4C6 sampai BRI) 
-Spliter C4 → T4C1 → T1C4 (Closure Flyover) → T1C1 ODP Sawah
-Spliter C5 → T3C5 → T1C3 (Closure Flyover) → T1C1 (Closure Sawah) → ODP Ujung
+Spliter C4 → T4C1 → T1C4 (Closure Flyover) → T1C1 ODP 171
+Spliter C5 → T3C5 → T1C3 (Closure Flyover) → T1C1 (Closure Sawah) → ODP 180
 Spliter C6 → 
 Spliter C7 →
 Spliter C8 → 
@@ -90,6 +90,6 @@ Spliter C2 → T1C1 ODP 93
 Spliter C3 → T1C2 ODP 90
 Spliter C4 → T1C1 ODP 176
 Spliter C5 → T1C2 ODP 177
-Spliter C6 → T1C3 ODP Setelah 177
+Spliter C6 → T1C3 → T1C1 Closure ODP 181
 Spliter C7 →
 Spliter C8 →
