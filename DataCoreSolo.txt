@@ -64,9 +64,9 @@ Spliter C8 →
 
 Dari pop bolon
 Closure odp 121
-Kabel dari pop T4C4 → T3C6(sampai closure BRI) → kabel 24 arah waduk T3C1 → T3C1 closure flyover → split 1:8 closure 7°31'11"S 110°43'48
+Kabel dari pop T4C4 → T3C6(sampai closure BRI) → kabel 24 arah waduk T3C1 → T3C1 closure flyover → split 1:8 closure 7°31'11"S 110°43'48E
 
-Closure 7°31'11"S 110°43'48 (Bawah Flyover) 
+Closure 7°31'11"S 110°43'48E (Bawah Flyover) 
 Spliter 1:8
 Spliter C1 → T3C3 → T1C1 (Closure flyover) → ODP 173
 Spliter C2 → T3C4 → T1C2 (Closure Flyover) → ODP 174
