@@ -56,7 +56,7 @@ Spliter 1:8
 Spliter C1 → T1C1 (kabel 12C arah barat) → ODP 182
 Spliter C2 → 
 Spliter C3 → 
-Spliter C4 → 
+Spliter C4 → T1C1 (kabel 24 arah utara) → T1C1 Closure sampai ODP 184
 Spliter C5 →
 Spliter C6 → 
 Spliter C7 →
