@@ -93,3 +93,18 @@ Spliter C5 → T1C2 ODP 177
 Spliter C6 → T1C3 → T1C1 Closure ODP 181
 Spliter C7 →
 Spliter C8 →
+
+Splitter ODP 109
+split C7 → T1C2 kabel 12 arah timur → T1C2 closure kuburan kabel 12 arah timur → T1C1 ODP 185
+
+Splitter ODP 56
+Spliter 1:8 
+Spliter C1 → Split 1:16 ODP 56
+Spliter C2 → T1C2 → T1C3 ODP 03 → ODP 186
+Spliter C3 → 
+Spliter C4 → 
+Spliter C5 → 
+Spliter C6 →
+Spliter C7 →
+Spliter C8 →
+
